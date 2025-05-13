@@ -8,7 +8,7 @@ A **BeHuman** é uma plataforma inovadora que revoluciona o e-commerce ao integr
 
 Assista à demonstração da BeHuman em ação clicando na imagem abaixo:
 
-[![Demonstração da BeHuman](https://img.youtube.com/vi/VIDEO_ID/mqdefault.jpg)](https://drive.google.com/file/d/1AhSSde7gvxyiNoEIN0g9TmPDbevxeDet/view?usp=sharing)
+[![Demonstração da BeHuman]](https://drive.google.com/file/d/1AhSSde7gvxyiNoEIN0g9TmPDbevxeDet/view?usp=sharing)
 
 > 💡 Dica: Se preferir usar Google Drive ou outro link direto, basta substituir o link do YouTube acima.
 
